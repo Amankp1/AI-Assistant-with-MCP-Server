@@ -25,11 +25,3 @@ This repository contains an asynchronous Python-based interactive memory-enabled
 - **AsyncIO** for smooth interactive input
 - **dotenv** for secure API key management
 
----
-
-## 📦 Setup
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/mcp-memory-chat.git
-cd mcp-memory-chat
